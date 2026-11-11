@@ -9,7 +9,7 @@
 
 👯 Looking to Collaborate: Projects that create positive impact through scalable cloud solutions
 
-🌐 Portfolio: [PORTFOLIO_URL](https://sanda1113.github.io/Sandakan-Liyanage/)
+🌐 Portfolio: [Sandakan Liyanage](https://sanda1113.github.io/Sandakan-Liyanage/)
 
 🔗 LinkedIn: https://www.linkedin.com/in/sandakan-liyanage-2baa9a207
 
