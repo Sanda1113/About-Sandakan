@@ -35,6 +35,9 @@
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
+  <a href="https://azure.microsoft.com/en-us/products/azure-sql" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="azure sql" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   </a>
@@ -43,9 +46,13 @@
   </a>
 </p>
 
-**Day-to-day at work:** SQL Server (T-SQL, backups and restores, SQL Agent jobs, log shipping, database mirroring, Always On Availability Groups) · Oracle (Data Guard, RMAN) · database health checks and performance monitoring
+**SQL Server:** T-SQL · backups and restores · SQL Agent jobs · log shipping · database mirroring · Always On Availability Groups · health checks and performance monitoring
 
-**Cloud databases:** Amazon RDS · DynamoDB · Azure SQL Database · Supabase PostgreSQL
+**Oracle:** Data Guard (physical and logical standby) · RMAN backups · database health checks on Linux
+
+**Cloud SQL platforms:** Azure SQL Managed Instance · Azure SQL Database · SQL Server on Azure VMs · Amazon RDS for SQL Server
+
+**Other:** DynamoDB · Supabase PostgreSQL
 
 <h1>☁️ Cloud & DevOps</h1>
 <p align="left">
@@ -69,11 +76,11 @@
   </a>
 </p>
 
-**AWS:** VPC · EC2 · Auto Scaling · ALB · RDS · S3 · DynamoDB · Route 53 · CloudFormation · IAM · CloudWatch
+**AWS:** VPC · EC2 · Auto Scaling · ALB · Amazon RDS (incl. RDS for SQL Server) · S3 · DynamoDB · Route 53 · CloudFormation · IAM · CloudWatch
 
-**Azure:** Virtual Machines · Virtual Networks · Azure SQL Database · Storage Accounts · Microsoft Entra ID
+**Azure:** Azure SQL Managed Instance · Azure SQL Database · SQL Server on Azure VMs · Virtual Machines · Virtual Networks · Storage Accounts · Microsoft Entra ID
 
-<h1>🖥️ Infrastructure & Scripting</h1>
+<h1>🖥️ Infrastructure, Virtualization & Scripting</h1>
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
@@ -86,7 +93,11 @@
   </a>
 </p>
 
-**Tools:** PowerShell · Windows Server · Hyper-V lab virtual machines · Linux administration
+**Virtualization:** VMware · Hyper-V · Windows Server virtual machines
+
+**Operating systems:** Windows Server · Linux administration
+
+**Scripting & automation:** PowerShell scripting · Bash · T-SQL automation
 
 <h1>💻 Web Development</h1>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
