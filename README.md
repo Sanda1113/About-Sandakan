@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandakan Mandara Liyanage</h1>
 <h3 align="center">Database Engineering Intern @Onsys Technologies | Cloud & DevOps | Final-Year Computer Science (Cloud Technologies) Undergraduate</h3><p align="center"></p>
 
-💼 Currently Working: Database Engineering Intern at Onsys Technologies (Melbourne, remote) – SQL Server and Oracle health checks, backup and high-availability monitoring, and incident triage for production databases
+💼 Currently Working: Database Engineering Intern at Onsys Technologies (Melbourne, remote)
 
 🏫 Current Status: Final-year Computer Science undergraduate (Cloud Technologies), Staffordshire University via APIIT
 
